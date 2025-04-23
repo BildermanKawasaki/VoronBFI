@@ -15,6 +15,7 @@
 |MikeYankeeOscarBeta|[9MM BFI](./MikeYankeeOscarBeta/)| 9mm BFI. Using 5x22mm pins|
 |Tetsu|[Symmetrical BFI](./Tetsu/Symetrical%20BFI/)| Symmetrical BFI parts with options for M3 & M5 hardware & BFI front logos|
 |DonaldSayers|[45 Degree Housing](./DonaldSayers/)| Made the housing a bit easier to print the overhang. Mostly print aesthetics.
+|BildermanKawasaki|[V2.4 BZI Carrier for 18mm Idler (Powge)](./BildermanKawasaki/V2.4_BZI_Carrier_for_18mm_Idler)|2.4 BZI carrier that does not interfere with the 18mm flange on Powge or other idlers with larger flange than Gates parts.|
 
 ## Other BFI forks/variants
 | Creator | Title | Description |
